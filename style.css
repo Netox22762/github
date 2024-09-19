@@ -8,10 +8,17 @@ header{
     text-align: center;
     font-size: 150px;
     padding: 30px;
-    background-color:white ;
+ 
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#b{
+       background-color:white ;
 }
 
-main{
+main , header{
 
     animation: changeBackgroundColor 5s infinite; 
   }
